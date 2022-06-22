@@ -1,0 +1,40 @@
+.navbg{
+  background:#114778;
+	/* linear-gradient(#5bb6a25c,#0fceec42) */
+}
+.navbar{
+  height: 100px;
+}
+.navbar-brand img{
+  margin-top: -20px;
+  margin-right: 5px;
+}
+.brandName1,
+.brandName2,
+.brandName3{
+  font-size: 35px;
+  margin-top: -20px;
+  
+}
+.brandName1{
+  color: #2BB673;
+
+}
+.brandName2,
+.brandName3{
+  color: #ffffff;
+
+}
+
+.navManu{
+  margin-left: auto;
+}
+.nav-link{
+  margin-left: 20px;
+}
+
+.nav-link, .dropdown-item{
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}

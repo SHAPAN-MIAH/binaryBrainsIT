@@ -1,0 +1,19 @@
+/* .Header{
+  background:
+	linear-gradient(#19d3ae73,#0fceec88),
+    linear-gradient(#19d3ae73,#0fceec88),	
+	url(../../../assets/images/MWLF9tpHEo6iNHNj4BW3TS.jpg) center center fixed;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+    height: 600px;
+} */
+.Header{
+  background:
+	linear-gradient(#5bb6a20c,#0fceec17),
+    linear-gradient(#19d3ae38,#0fceec3c),	
+	url(../../../assets/images/MWLF9tpHEo6iNHNj4BW3TS.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+  height: 100vh;
+}
